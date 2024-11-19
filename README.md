@@ -1,0 +1,1 @@
+This repository contains the codes for the Open Set Domain Adaptation to Improve Occupancy Estimation and Activity Recognition in Smart Buildings paper.
